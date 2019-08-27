@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.github.hugui.config.RedisConfig,\
+com.github.hugui.config.DistributedLockAspectConfiguration,\
+com.github.hugui.config.DistributedLockAutoConfiguration
